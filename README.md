@@ -1,1 +1,1 @@
-# Weather_database
+This dataset contains synthetic weather data generated for different locations. The data includes information about temperature, precipitation, and wind speed, with 1 million data points generated for each parameter.
